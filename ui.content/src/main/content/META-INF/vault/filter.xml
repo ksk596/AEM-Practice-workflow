@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/AEMPractice"/>
+    <filter root="/content/AEMPractice"/>
+    <filter root="/content/dam/AEMPractice"/>
+</workspaceFilter>
